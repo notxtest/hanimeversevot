@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: your-bot-name
+    env: docker
+    dockerfilePath: ./Dockerfile
